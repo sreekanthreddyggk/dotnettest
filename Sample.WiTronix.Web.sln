@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample.WiTronix.Web", "Sample.WiTronix.Web\Sample.WiTronix.Web.csproj", "{63F55CFC-B26D-4040-86A7-300F374320F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample.WiTronix.DataAccess", "Sample.WiTronix.DataAccess\Sample.WiTronix.DataAccess.csproj", "{6C5B5654-B7D4-4F91-959A-042AD61DF015}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample.WiTronix.Business", "Sample.WiTronix.Business\Sample.WiTronix.Business.csproj", "{A87445E7-42C5-4B40-A046-6B57100E47D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample.WiTronix.Business.Test", "Sample.WiTronix.Business.Test\Sample.WiTronix.Business.Test.csproj", "{B376067F-68E8-4C87-A966-F0FAFF25D315}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample.WiTronix.DataAccess.Test", "Sample.WiTronix.DataAccess.Test\Sample.WiTronix.DataAccess.Test.csproj", "{EB6587BE-0483-43CB-8491-62BB9BAB48D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63F55CFC-B26D-4040-86A7-300F374320F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63F55CFC-B26D-4040-86A7-300F374320F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63F55CFC-B26D-4040-86A7-300F374320F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63F55CFC-B26D-4040-86A7-300F374320F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C5B5654-B7D4-4F91-959A-042AD61DF015}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C5B5654-B7D4-4F91-959A-042AD61DF015}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C5B5654-B7D4-4F91-959A-042AD61DF015}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C5B5654-B7D4-4F91-959A-042AD61DF015}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A87445E7-42C5-4B40-A046-6B57100E47D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A87445E7-42C5-4B40-A046-6B57100E47D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A87445E7-42C5-4B40-A046-6B57100E47D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A87445E7-42C5-4B40-A046-6B57100E47D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B376067F-68E8-4C87-A966-F0FAFF25D315}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B376067F-68E8-4C87-A966-F0FAFF25D315}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B376067F-68E8-4C87-A966-F0FAFF25D315}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B376067F-68E8-4C87-A966-F0FAFF25D315}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB6587BE-0483-43CB-8491-62BB9BAB48D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB6587BE-0483-43CB-8491-62BB9BAB48D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB6587BE-0483-43CB-8491-62BB9BAB48D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB6587BE-0483-43CB-8491-62BB9BAB48D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

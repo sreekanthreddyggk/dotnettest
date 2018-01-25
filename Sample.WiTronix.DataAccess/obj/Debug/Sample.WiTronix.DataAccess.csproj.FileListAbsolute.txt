@@ -1,0 +1,4 @@
+D:\Sample.WiTronix.Web\Sample.WiTronix.DataAccess\bin\Debug\Sample.WiTronix.DataAccess.dll
+D:\Sample.WiTronix.Web\Sample.WiTronix.DataAccess\bin\Debug\Sample.WiTronix.DataAccess.pdb
+D:\Sample.WiTronix.Web\Sample.WiTronix.DataAccess\obj\Debug\Sample.WiTronix.DataAccess.dll
+D:\Sample.WiTronix.Web\Sample.WiTronix.DataAccess\obj\Debug\Sample.WiTronix.DataAccess.pdb

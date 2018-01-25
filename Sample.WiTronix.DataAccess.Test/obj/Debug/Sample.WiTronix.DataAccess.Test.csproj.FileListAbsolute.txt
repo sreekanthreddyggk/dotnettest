@@ -1,0 +1,8 @@
+D:\Sample.WiTronix.Web\Sample.WiTronix.DataAccess.Test\bin\Debug\Sample.WiTronix.DataAccess.Test.dll
+D:\Sample.WiTronix.Web\Sample.WiTronix.DataAccess.Test\bin\Debug\Sample.WiTronix.DataAccess.Test.pdb
+D:\Sample.WiTronix.Web\Sample.WiTronix.DataAccess.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Sample.WiTronix.Web\Sample.WiTronix.DataAccess.Test\bin\Debug\Sample.WiTronix.DataAccess.dll
+D:\Sample.WiTronix.Web\Sample.WiTronix.DataAccess.Test\bin\Debug\Sample.WiTronix.DataAccess.pdb
+D:\Sample.WiTronix.Web\Sample.WiTronix.DataAccess.Test\obj\Debug\Sample.WiTronix.DataAccess.Test.csprojResolveAssemblyReference.cache
+D:\Sample.WiTronix.Web\Sample.WiTronix.DataAccess.Test\obj\Debug\Sample.WiTronix.DataAccess.Test.dll
+D:\Sample.WiTronix.Web\Sample.WiTronix.DataAccess.Test\obj\Debug\Sample.WiTronix.DataAccess.Test.pdb
