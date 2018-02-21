@@ -5,3 +5,10 @@ D:\Sample.WiTronix.Web\Sample.WiTronix.Business\bin\Debug\Sample.WiTronix.DataAc
 D:\Sample.WiTronix.Web\Sample.WiTronix.Business\obj\Debug\Sample.WiTronix.Business.csprojResolveAssemblyReference.cache
 D:\Sample.WiTronix.Web\Sample.WiTronix.Business\obj\Debug\Sample.WiTronix.Business.dll
 D:\Sample.WiTronix.Web\Sample.WiTronix.Business\obj\Debug\Sample.WiTronix.Business.pdb
+D:\training\dotnet\dotnettest\dotnettest\Sample.WiTronix.Business\bin\Debug\Sample.WiTronix.Business.dll
+D:\training\dotnet\dotnettest\dotnettest\Sample.WiTronix.Business\bin\Debug\Sample.WiTronix.Business.pdb
+D:\training\dotnet\dotnettest\dotnettest\Sample.WiTronix.Business\bin\Debug\Sample.WiTronix.DataAccess.dll
+D:\training\dotnet\dotnettest\dotnettest\Sample.WiTronix.Business\bin\Debug\Sample.WiTronix.DataAccess.pdb
+D:\training\dotnet\dotnettest\dotnettest\Sample.WiTronix.Business\obj\Debug\Sample.WiTronix.Business.csprojResolveAssemblyReference.cache
+D:\training\dotnet\dotnettest\dotnettest\Sample.WiTronix.Business\obj\Debug\Sample.WiTronix.Business.dll
+D:\training\dotnet\dotnettest\dotnettest\Sample.WiTronix.Business\obj\Debug\Sample.WiTronix.Business.pdb

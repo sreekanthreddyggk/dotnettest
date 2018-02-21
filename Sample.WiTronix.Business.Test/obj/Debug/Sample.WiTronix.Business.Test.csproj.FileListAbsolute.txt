@@ -8,3 +8,12 @@ D:\Sample.WiTronix.Web\Sample.WiTronix.Business.Test\bin\Debug\Sample.WiTronix.D
 D:\Sample.WiTronix.Web\Sample.WiTronix.Business.Test\obj\Debug\Sample.WiTronix.Business.Test.csprojResolveAssemblyReference.cache
 D:\Sample.WiTronix.Web\Sample.WiTronix.Business.Test\obj\Debug\Sample.WiTronix.Business.Test.dll
 D:\Sample.WiTronix.Web\Sample.WiTronix.Business.Test\obj\Debug\Sample.WiTronix.Business.Test.pdb
+D:\training\dotnet\dotnettest\dotnettest\Sample.WiTronix.Business.Test\bin\Debug\Sample.WiTronix.Business.Test.dll
+D:\training\dotnet\dotnettest\dotnettest\Sample.WiTronix.Business.Test\bin\Debug\Sample.WiTronix.Business.Test.pdb
+D:\training\dotnet\dotnettest\dotnettest\Sample.WiTronix.Business.Test\bin\Debug\Sample.WiTronix.Business.dll
+D:\training\dotnet\dotnettest\dotnettest\Sample.WiTronix.Business.Test\bin\Debug\Sample.WiTronix.DataAccess.dll
+D:\training\dotnet\dotnettest\dotnettest\Sample.WiTronix.Business.Test\bin\Debug\Sample.WiTronix.Business.pdb
+D:\training\dotnet\dotnettest\dotnettest\Sample.WiTronix.Business.Test\bin\Debug\Sample.WiTronix.DataAccess.pdb
+D:\training\dotnet\dotnettest\dotnettest\Sample.WiTronix.Business.Test\obj\Debug\Sample.WiTronix.Business.Test.csprojResolveAssemblyReference.cache
+D:\training\dotnet\dotnettest\dotnettest\Sample.WiTronix.Business.Test\obj\Debug\Sample.WiTronix.Business.Test.dll
+D:\training\dotnet\dotnettest\dotnettest\Sample.WiTronix.Business.Test\obj\Debug\Sample.WiTronix.Business.Test.pdb

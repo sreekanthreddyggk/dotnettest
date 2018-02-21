@@ -6,3 +6,10 @@ D:\Sample.WiTronix.Web\Sample.WiTronix.DataAccess.Test\bin\Debug\Sample.WiTronix
 D:\Sample.WiTronix.Web\Sample.WiTronix.DataAccess.Test\obj\Debug\Sample.WiTronix.DataAccess.Test.csprojResolveAssemblyReference.cache
 D:\Sample.WiTronix.Web\Sample.WiTronix.DataAccess.Test\obj\Debug\Sample.WiTronix.DataAccess.Test.dll
 D:\Sample.WiTronix.Web\Sample.WiTronix.DataAccess.Test\obj\Debug\Sample.WiTronix.DataAccess.Test.pdb
+D:\training\dotnet\dotnettest\dotnettest\Sample.WiTronix.DataAccess.Test\bin\Debug\Sample.WiTronix.DataAccess.Test.dll
+D:\training\dotnet\dotnettest\dotnettest\Sample.WiTronix.DataAccess.Test\bin\Debug\Sample.WiTronix.DataAccess.Test.pdb
+D:\training\dotnet\dotnettest\dotnettest\Sample.WiTronix.DataAccess.Test\bin\Debug\Sample.WiTronix.DataAccess.dll
+D:\training\dotnet\dotnettest\dotnettest\Sample.WiTronix.DataAccess.Test\bin\Debug\Sample.WiTronix.DataAccess.pdb
+D:\training\dotnet\dotnettest\dotnettest\Sample.WiTronix.DataAccess.Test\obj\Debug\Sample.WiTronix.DataAccess.Test.csprojResolveAssemblyReference.cache
+D:\training\dotnet\dotnettest\dotnettest\Sample.WiTronix.DataAccess.Test\obj\Debug\Sample.WiTronix.DataAccess.Test.dll
+D:\training\dotnet\dotnettest\dotnettest\Sample.WiTronix.DataAccess.Test\obj\Debug\Sample.WiTronix.DataAccess.Test.pdb
