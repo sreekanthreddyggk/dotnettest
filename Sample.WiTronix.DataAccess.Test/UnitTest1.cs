@@ -27,13 +27,23 @@ namespace Sample.WiTronix.DataAccess.Test
         }
 
         [TestMethod]
-        public void Sub_Test_Method2()
+        public void Multiply_Test_Method1()
         {
             CaluclateDataAccess cDA = new CaluclateDataAccess();
             int value1 = 10;
             int value2 = 5;
 
-            Assert.AreEqual(5, cDA.Sub(value1, value2));
+            Assert.AreEqual(50, cDA.Multiply(value1, value2));
+        }
+        
+        [TestMethod]
+        public void Div_Test_Method2()
+        {
+            CaluclateDataAccess cDA = new CaluclateDataAccess();
+            int value1 = 10;
+            int value2 = 5;
+
+            Assert.AreEqual(2, cDA.Div(value1, value2));
         }
 
     }
