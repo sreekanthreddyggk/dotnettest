@@ -12,6 +12,10 @@ namespace Sample.WiTronix.Business.Test
             CaluclateBusiness cB = new CaluclateBusiness();
             int value1 = 10;
             int value2 = 5;
+            if ( 1 == 2)
+            {
+                int varl = 10;
+            }
 
             Assert.AreEqual(15, cB.Add(value1, value2));
         }
